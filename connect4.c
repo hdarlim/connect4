@@ -95,7 +95,7 @@ int main() {
     if (vencedor != ' ') {
         printf("Vencedor: %c\n", vencedor);
     } else {
-        printf("Empate");
+        printf("Empate\n");
     }
 
     return 0;
